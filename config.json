@@ -1,0 +1,15 @@
+{
+  "ownerNumber": ["6282138899290_@s.whatsapp.net"],
+  "ownerName": "Venn Turu",
+  "BotName": "Neo Botz",
+  "Footer": "© Created By Venn Bocil ",
+  "email": "prefelajr@gmail.com",
+  "website": "https://github.com/Andynurrohman",
+  "region": "indonesia",
+  "pathimg": "./media/neobot.jpg",
+  "limitCount": 40,
+  "gcount": {
+	"prem": 9999,
+	"user": 30
+  }
+}
